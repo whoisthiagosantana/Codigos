@@ -1,5 +1,15 @@
 # 00 — Cenário e premissas
 
+## 0. Situação real hoje (08/out/2026) — leia primeiro
+
+**Não há pandemia em curso.** O que existe é um alerta: em 5–6/out/2026 foi noticiada a morte de uma técnica de
+laboratório antipeste em **Irkutsk (Rússia)**. A **causa não está confirmada** (autoridades russas dizem pneumonia e
+negam peste; a OMS diz não ter informação suficiente). Até agora, **nenhum caso secundário de peste foi confirmado**
+entre os contatos testados. Detalhes e fontes em `02-fontes-e-limites.md`.
+
+Portanto este protocolo é um **exercício de preparação para um cenário hipotético**. A linha do tempo de 2027 é
+uma hipótese de planejamento, **não uma previsão**.
+
 ## 1. O agente: *Yersinia pestis*
 
 Bactéria que circula em roedores e pulgas. Três formas clínicas:
@@ -16,8 +26,9 @@ O cenário do exercício é a **forma pneumônica transmitida de pessoa a pessoa
 
 > Valores consolidados de referências públicas (OMS, CDC, Ministério da Saúde). Confirme com as autoridades.
 
-- **Incubação da pneumônica: curta, ~1 a 4 dias** (pode chegar a ~6). Isso é **bom para quarentena**:
-  quem ficar 7 dias sem sintoma, em geral, não está incubando.
+- **Incubação da pneumônica: curta, usualmente 1 a 3 dias** (algumas fontes citam até ~4). Isso é **bom para quarentena**:
+  quem ficar 7 dias sem sintoma, em geral, não está incubando. *O prazo de 7 dias é regra doméstica conservadora,
+  não um prazo médico universal nem garantia de ausência de doença (ver `02-fontes-e-limites.md`).*
 - **Evolução muito rápida**: febre alta, calafrios, tosse, falta de ar, escarro com sangue, mal-estar intenso.
   Sem tratamento, pode ser fatal em 1–3 dias.
 - **Janela de tratamento**: antibiótico idealmente em **até 24 h** do início dos sintomas. Cada hora conta.

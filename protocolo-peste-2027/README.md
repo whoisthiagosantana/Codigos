@@ -11,6 +11,15 @@ Surto de **peste pneumônica** (*Yersinia pestis*) com origem na Rússia no iní
 por viagens internacionais. A família mora em **sítio pequeno, longe dos grandes centros** (premissa: Brasil),
 quer se preparar **em degraus** e prever a chegada de **familiares de fora**, que podem trazer a doença.
 
+## Situação em out/2026 e duas visões integradas
+
+**Não há pandemia em curso.** Há um alerta (morte de técnica de laboratório antipeste em Irkutsk, causa não confirmada;
+ver `02-fontes-e-limites.md`). Este protocolo é **preparação para cenário hipotético**.
+
+Esta versão **integra duas visões independentes**: a operacional (este protocolo) e a cautelosa/baseada em evidência de
+outro agente (preservada em `contribuicoes/`). O que foi aproveitado e as divergências estão em
+`03-reconciliacao-de-visoes.md`. Em caso de conflito, prevalecem **a autoridade sanitária e o rótulo de confiança** de `02`.
+
 ## Correção importante de conceito
 
 A peste **não é vírus: é bactéria**. Isso é uma **boa notícia**:
@@ -32,6 +41,9 @@ protocolo-peste-2027/
 ├── README.md                      ← você está aqui
 ├── 00-cenario-e-premissas.md      ← o que é a doença, como se transmite, premissas do plano
 ├── 01-niveis-e-gatilhos.md        ← NÍVEIS 0–5: o que dispara a escalada (calendário + eventos)
+├── 02-fontes-e-limites.md         ← níveis de confiança, situação real, fontes, quando reavaliar
+├── 03-reconciliacao-de-visoes.md  ← o que veio do plano externo, divergências e decisões
+├── contribuicoes/                 ← material do outro agente, intacto (rastreabilidade)
 ├── fases/
 │   ├── fase-0-nov-dez-2026.md     ← construir a base (calma, barato, sem alarde)
 │   ├── fase-1-1T-2027.md          ← vigilância ativa; completar estoques
@@ -46,8 +58,11 @@ protocolo-peste-2027/
 │   ├── E-saude-e-farmacia.md            ← kit de saúde, o que conversar com o médico
 │   ├── F-agua-comida-energia.md         ← autonomia logística
 │   ├── G-novos-moradores-e-convivencia.md ← parentes que vão morar no sítio: regras, capacidade, saúde mental
-│   └── H-comunicacao-e-fontes.md        ← de onde tirar informação confiável, contatos, comunidade
+│   ├── H-comunicacao-e-fontes.md        ← de onde tirar informação confiável, contatos, comunidade
+│   ├── I-governanca-e-rotinas.md        ← 5 papéis, rotina semanal→trimestral, registro de decisões
+│   └── J-zoneamento-e-fluxo.md          ← zonas A–E e fluxo de pessoas
 └── fichas/
+    ├── checklists-auditoria-e-pre-chegada.md ← auditoria inicial, pré-chegada, revisão trimestral
     ├── lista-mestra-de-itens.md         ← checklist de compras por fase e por prioridade
     ├── ficha-triagem-visitante.md       ← imprimir: pergunta-e-registro de chegada
     └── registro-diario-sintomas.md      ← imprimir: temperatura e sintomas na quarentena

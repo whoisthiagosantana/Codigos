@@ -8,12 +8,12 @@
 | Ambiente fechado com visitantes/outras pessoas | PFF2 |
 | Na casa, sem visitantes, todos saudáveis | Não necessária |
 | Doente tossindo | PFF2 (se tolerar) ou cirúrgica |
-| Crianças pequenas | Avaliar com pediatra; PFF2 infantil/KN95 pequena quando disponível |
+| Crianças | **Menores de 2 anos: não usar máscara** (risco de sufocamento). Demais: seguir o pediatra; PFF2 infantil/KN95 pequena quando disponível. **Nunca deixar criança pequena sozinha** com adulto em isolamento: designar cuidador |
 
 **Regras de uso**
 - Lavar as mãos antes de colocar; ajustar clip nasal; **teste de vedação** (expirar com força: sem vazamento).
 - Não tocar na frente da máscara; remover pelos elásticos.
-- Trocar se úmida, danificada ou após **8 h de uso intenso** (PFF2 pode ser reutilizada em uso cotidiano, guardada em saco de papel, mas **descarte** após contato direto com doente).
+- Trocar se úmida, suja, danificada, sem vedação ou após contato direto com doente. **Não existe prazo universal de reuso**: seguir o fabricante e comprar PFF2 **certificada**, em tamanhos variados, com ajuste testado.
 
 ## 2. EPI completo (cuidado com doente)
 
@@ -82,7 +82,7 @@ Higienizar mãos → avental → PFF2 → óculos → gorro → luvas (sobre o p
 3. Colocar roupas em saco fechado (lavar no mesmo dia).
 4. **Banho imediato**.
 5. Limpar celular, chaves, carteira, óculos com álcool 70%.
-6. Compras: retirar das embalagens externas quando possível (álcool 70% nas embalagens duras); hortifrúti lavado com água corrente e hipoclorito de uso alimentar (conforme rótulo).
+6. Compras: **não é necessário desinfetar embalagens nem pulverizar produtos** (opcional). Lavar as mãos depois de guardar; hortifrúti lavado em água corrente como de costume.
 
 ## 8. Ar e ventilação
 

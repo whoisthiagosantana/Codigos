@@ -113,6 +113,6 @@ Dizer "não" com carinho, oferecendo **alternativas** (apoio remoto, envio de it
 ## 10. Se a capacidade foi ultrapassada (plano B)
 
 - **Rever consumo**, ampliar produção e trocas com vizinhos.
-- **Criar acampamento secundário** (barracas, galpão adaptado) com banheiro seco.
+- **Adiar a chegada** ou buscar acomodação externa. **Barraca ou abrigo precário não substituem estrutura segura**, sobretudo para crianças e doentes (ver `J` §5). Galpão só se adaptado com ventilação, banheiro e aquecimento adequados, e **nunca** para pessoa doente ou criança pequena.
 - **Encaminhar** pessoas para abrigos/estruturas públicas, se existirem.
 - **Nunca** comprometer o abastecimento básico dos que já estão.

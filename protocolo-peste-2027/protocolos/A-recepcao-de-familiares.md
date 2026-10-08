@@ -1,8 +1,16 @@
 # Protocolo A — Recepção de familiares e visitantes (quarentena de chegada)
 
 **Quando ativar:** a partir do **Nível 2**. Antes disso, apenas o *Combinado de Visitas* (G).
-**Princípio:** o doente só transmite quando tem sintomas, a incubação é curta (~1–6 dias). Logo, a combinação
-**triagem + quarentena de 7 dias (Nível 2) ou 10 dias (Nível 3+) + máscara + distância** reduz o risco a quase zero.
+**Princípio:** o doente só transmite quando tem sintomas, a incubação é curta (usualmente 1–3 dias). Logo, a combinação
+**triagem + quarentena de 7 dias + máscara + distância** reduz muito o risco — mas **não o elimina**.
+
+> **Natureza dos prazos.** Os **7 dias** são uma **regra doméstica conservadora**, não um prazo médico universal.
+> Os **10–14 dias** (Níveis 3–4) são opcionais e ultraconservadores. Se a autoridade sanitária orientar de outro modo, **ela prevalece**.
+> Este protocolo vale para **visitante assintomático**. Quem teve **contato conhecido com caso** não viaja ao sítio:
+> procura a Vigilância/serviço de saúde (avaliação e profilaxia).
+>
+> **Privacidade e dignidade.** Conversar sobre viagem e sintomas **sem constrangimento e em privado**; não divulgar
+> dados do visitante em grupos. **Nunca impedir um doente de chegar à assistência**: encaminhar, não barrar.
 
 ---
 
@@ -43,13 +51,13 @@ Mande esta mensagem ao visitante (adapte):
 | 5 | Se OK: visitante desce, **lava as mãos** (água e sabão, 40 s) na bacia externa. | Visitante |
 | 6 | Visitante coloca **roupa usada em saco plástico fechado** (lavagem posterior com água quente) e veste roupa limpa trazida em separado. | Visitante |
 | 7 | **Banho** na casa de hóspedes (ou chuveiro externo), antes de usar a cama. | Visitante |
-| 8 | Bagagem: **limpar superfícies externas** com álcool 70%/hipoclorito; objetos pessoais sem uso imediato ficam em área isolada (24–72 h, opcional). | Receptor |
+| 8 | Bagagem: limpeza das alças/superfícies externas com álcool 70% é **opcional**. A transmissão por objetos tem papel pequeno na peste pneumônica; **não é necessário pulverizar bagagem ou pessoas**. O que importa é lavar as mãos. | Receptor |
 | 9 | Receptor retira EPI (ordem em `C`), descarta/limpa, **lava as mãos** e troca de roupa. | Receptor |
 | 10 | Registrar chegada na ficha (data, hora, temperatura, observações). | Receptor |
 
 ## 4. Quarentena na casa de hóspedes
 
-- **Duração:** **7 dias** (Nível 2) / **10 dias** (Nível 3) / **14 dias** (Nível 4, exceção humanitária).
+- **Duração:** **7 dias** (regra-base). Opcional, ultraconservador: 10 dias (Nível 3) / 14 dias (Nível 4, exceção humanitária).
   Conta-se a partir da **chegada**, sem contato externo adicional.
 - **Isolamento real:** sem entrar na casa principal; sem compartilhar talheres, toalhas, copos.
 - **Alimentação:** deixada na bandeja/cesto na entrada, sem contato; louça devolvida em recipiente separado e lavada com água quente e detergente por quem usa luvas.

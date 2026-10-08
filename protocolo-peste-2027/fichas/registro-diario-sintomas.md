@@ -6,7 +6,7 @@
 - Medir a temperatura **2×/dia** (manhã e noite), em repouso, **30 min** após comer/beber/exercício.
 - Registrar sintomas **todos os dias**, mesmo se "tudo bem".
 - **Ligue na hora** se: temperatura ≥ 37,8 °C **ou** qualquer sintoma respiratório, calafrios, dor no peito, escarro com sangue, gânglios doloridos.
-- SpO₂ (oxímetro) — normal ≥ 95%. **< 94%** ou queda de ≥ 3 pontos: avisar.
+- SpO₂ (oxímetro) é **apoio, não critério isolado**: valor baixo ou em queda → avisar; valor "normal" **não** descarta doença se houver sintomas.
 
 | Dia | Data | Temp. manhã | Temp. noite | SpO₂ | Tosse | Falta de ar | Calafrio | Dor/gânglio | Outros | Rubrica |
 |---|---|---|---|---|---|---|---|---|---|---|

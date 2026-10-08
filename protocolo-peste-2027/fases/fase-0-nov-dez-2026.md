@@ -8,7 +8,16 @@ Chame de "preparo para temporada de chuvas / queda de energia / isolamento por e
 
 ---
 
+## Contexto de hoje
+
+Em out/2026 **não há pandemia**; há uma notícia a acompanhar (Irkutsk; ver `../02-fontes-e-limites.md`). Esta fase é
+**preparação preventiva**, sem mudar a rotina e sem confinar. Aplique a regra de compra **escalonada**:
+**72 h essenciais → 14 dias → 30 dias** (as metas de 30 dias abaixo são o *teto* desta fase, não a primeira compra).
+
 ## Esta semana (outubro/2026 — arranque rápido)
+
+- [ ] Atribuir os **cinco papéis** e o substituto de cada um (`../protocolos/I-governanca-e-rotinas.md`).
+- [ ] Fazer a **auditoria inicial** (`../fichas/checklists-auditoria-e-pre-chegada.md`).
 
 - [ ] Reunir a família (30 min): apresentar o cenário, ler o `README` e o `00`.
 - [ ] Nomear o **responsável pelo plano** e um substituto.

@@ -14,7 +14,16 @@ O calendário é só a **expectativa**: se o evento vier antes, suba antes; se n
 | **4** | Emergência | **Transmissão comunitária em seu estado** ou **caso no seu município / municípios vizinhos** | Variável (ex.: jul–nov/2027) | **Porteira fechada** para visitas; contato externo por entrega sem contato; plano de remoção do doente ativo. |
 | **5** | Saída | Autoridades declaram **declínio sustentado** (≥ 28 dias sem novos casos locais) e fim de restrições | Variável | Reabertura gradual; balanço; rotação e doação de estoques. |
 
+> **Sobre os prazos de quarentena desta tabela:** **7 dias** é a regra-base (prudência doméstica para visitante
+> assintomático). Os **10–14 dias** dos níveis 3–4 são uma **opção ultraconservadora da família** (ex.: casa com idoso ou
+> imunossuprimido) e **não têm base médica universal**. Só a autoridade sanitária impõe quarentena formal; se ela
+> orientar prazo diferente, **vale o dela** (ver `02-fontes-e-limites.md`).
+
+> **Equivalência com o plano externo:** Preparação = Nível 0 · Vigilância = Níveis 1–2 · Restrição = Nível 3 ·
+> Contenção = Nível 4 · Crise = Níveis 4–5 (ver `03-reconciliacao-de-visoes.md`).
+
 > **Regra de ouro:** só **desça** de nível quando **fonte oficial** disser; só **suba** quando o gatilho acontecer.
+> **Nunca mantenha medidas de confinamento só porque o calendário avançou**, nem as adote com base em rumor.
 > Na dúvida entre dois níveis, aja pelo mais alto **para os itens baratos** e pelo mais baixo **para os caros/drásticos**.
 
 ## O que muda em cada nível (resumo)

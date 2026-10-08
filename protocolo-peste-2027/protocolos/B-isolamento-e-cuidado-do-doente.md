@@ -42,7 +42,9 @@
 - **Não esperar piorar**: o tempo é crítico. Tente **deslocamento** com EPI (seção 5) para o ponto de atendimento mais próximo.
 - Se o médico **prescrever o antibiótico** do seu kit (ver `E`), siga a prescrição **exatamente**; não improvise doses.
 - Mantenha **hidratação**, repouso, monitoramento de temperatura e saturação (oxímetro).
-- **Sinais de gravidade:** SpO₂ < 92%, respiração muito rápida, confusão, lábios arroxeados, pressão baixa → emergência.
+- **Sinais de gravidade:** respiração muito rápida, confusão, desmaio, lábios arroxeados, pressão baixa, SpO₂ baixa → emergência.
+- **O oxímetro é apoio, não critério isolado**: leitura "normal" **não exclui** gravidade (dedo frio, esmalte, mau sinal); decida pelo conjunto do quadro.
+- **Não improvise antibiótico** nem use **medicação veterinária**. Se a rota assistencial estiver cortada, a prioridade é restabelecê-la (SAMU, vizinhos, polícia/bombeiros), não tratar em casa.
 
 ## 5. Remoção em carro particular (plano B)
 
@@ -69,7 +71,8 @@
 
 ## 8. Quando o isolamento termina
 
-- **Critério médico.** Em geral, após **~48 h de antibiótico eficaz** e **melhora clínica** (sem febre e com melhora respiratória), e conforme orientação da Vigilância.
+- **Critério médico.** Em ambiente hospitalar, o CDC admite retirar as precauções de gotículas após ao menos **48 h de antibiótico adequado e melhora clínica**, conforme a Vigilância.
+  **Isso não significa que a família deva tratar o caso em casa por 48 h**: o antibiótico é prescrito e iniciado pela equipe de saúde.
 - Limpeza terminal do quarto (hipoclorito 0,1%, 10 min de contato; lavagem de roupas de cama em água quente ≥ 60 °C com detergente).
 
 ## 9. Se ocorrer óbito (luto com segurança)

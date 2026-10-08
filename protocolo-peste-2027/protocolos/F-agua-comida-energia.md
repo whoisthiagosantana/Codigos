@@ -4,7 +4,12 @@
 
 ### Quantidade
 - **4 L por pessoa por dia** (2 L beber/cozinhar + 2 L higiene mínima). Família de 4: **16 L/dia**.
-- Metas: **7 dias** (N0) → **14 dias** (N1–2) → **30 dias** (N3+).
+  (O CDC usa ≈ 3,8 L/pessoa/dia, 1 galão; é equivalente.)
+- **Essa reserva cobre só necessidades essenciais.** Banho, horta e **animais** exigem **água adicional**, dimensionada à parte.
+- **Metas escalonadas (ordem de compra):** **72 h** essenciais (≈ 46 L para 4 pessoas) → **14 dias** → **30 dias**,
+  conforme orçamento e espaço. Em termos de nível: 7 dias (N0) → 14 dias (N1–2) → 30 dias (N3+).
+- Reservatório limpo, de uso alimentar, vedado, identificado; testar a fonte (poço/cisterna). **Filtro sozinho não resolve todos os contaminantes**: filtrar **e** desinfetar.
+- Não colocar grandes reservas em local sujeito a **inundação, calor extremo, fogo ou infestação**.
 
 | Dias | 4 pessoas |
 |---|---|

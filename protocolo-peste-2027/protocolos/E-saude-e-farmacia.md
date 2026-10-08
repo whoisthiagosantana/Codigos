@@ -12,6 +12,10 @@ No sítio, isso significa três coisas: **(1) reconhecer cedo**, **(2) acionar r
 > não use "sobras" e **não se automedique**: dose errada, droga errada ou uso sem indicação causa
 > falha de tratamento, efeitos adversos e resistência — e pode **mascarar** o diagnóstico.
 
+**Regra firme:** **não estocar nem usar antibiótico para peste por conta própria**, e nunca usar medicação veterinária.
+Qualquer estoque só existe **com prescrição individual** e com o **gatilho de uso combinado por escrito com o médico**.
+Guardar antibióticos, pesticidas e combustíveis de forma segura, longe de crianças.
+
 **O que fazer:**
 1. Em **consulta** (clínico/infectologista), apresentar o cenário e perguntar:
    - Qual o **plano de ação** do médico para febre + tosse em contexto de risco?
@@ -82,7 +86,7 @@ Ligue imediatamente (SAMU 192/hospital/médico) se houver **qualquer** destes:
 - Febre ≥ 38 °C **+ tosse** ou falta de ar
 - Tosse com sangue
 - Febre alta + gânglios dolorosos
-- SpO₂ < 94% (ou queda de ≥ 3 pontos do habitual)
+- SpO₂ baixa ou em queda em relação ao habitual (**o oxímetro é apoio; leitura normal não exclui gravidade**)
 - Confusão, sonolência excessiva
 - Criança/idoso com febre + prostração
 
